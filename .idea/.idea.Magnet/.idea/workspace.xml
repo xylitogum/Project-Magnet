@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43bfd575-0757-46c4-82c9-4a86c67ce474" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Magnetic.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+              <folding>
+                <marker date="1528462021286" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528462021286" expanded="true" signature="96:2004" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="139:2002" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="248:287" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="503:577" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="639:647" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="683:1999" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="760:1987" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="910:1852" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="1418:1452" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="1606:1702" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="1712:1846" ph="{...}" />
+                <marker date="1528462021286" expanded="true" signature="1861:1982" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Generator.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Generator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+              <folding>
+                <marker date="1528452196349" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528452196349" expanded="true" signature="104:576" ph="{...}" />
+                <marker date="1528452196349" expanded="true" signature="148:574" ph="{...}" />
+                <marker date="1528452196349" expanded="true" signature="298:307" ph="{...}" />
+                <marker date="1528452196349" expanded="true" signature="363:571" ph="{...}" />
+                <marker date="1528452196349" expanded="true" signature="405:563" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Controller.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Controller.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+              <folding>
+                <marker date="1528454729237" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528454729237" expanded="true" signature="105:714" ph="{...}" />
+                <marker date="1528454729237" expanded="true" signature="148:710" ph="{...}" />
+                <marker date="1528454729237" expanded="true" signature="296:324" ph="{...}" />
+                <marker date="1528454729237" expanded="true" signature="386:707" ph="{...}" />
+                <marker date="1528454729237" expanded="true" signature="402:703" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Selector.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Selector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1528451977781" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528451977781" expanded="true" signature="104:413" ph="{...}" />
+                <marker date="1528451977781" expanded="true" signature="148:410" ph="{...}" />
+                <marker date="1528451977781" expanded="true" signature="200:208" ph="{...}" />
+                <marker date="1528451977781" expanded="true" signature="265:273" ph="{...}" />
+                <marker date="1528451977781" expanded="true" signature="295:407" ph="{...}" />
+                <marker date="1528451977781" expanded="true" signature="355:402" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Generator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Controller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Selector.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Magnet/Scripts/MagneticPole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Selector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Generator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Controller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Magnet" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43bfd575-0757-46c4-82c9-4a86c67ce474" name="Default" comment="" />
+      <created>1528449359641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528449359641</updated>
+      <workItem from="1528449362518" duration="31000" />
+      <workItem from="1528449424520" duration="6800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6831000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/MagneticPole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/MagneticPole.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Example/Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Generator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <marker date="1528452196349" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528452196349" expanded="true" signature="104:576" ph="{...}" />
+            <marker date="1528452196349" expanded="true" signature="148:574" ph="{...}" />
+            <marker date="1528452196349" expanded="true" signature="298:307" ph="{...}" />
+            <marker date="1528452196349" expanded="true" signature="363:571" ph="{...}" />
+            <marker date="1528452196349" expanded="true" signature="405:563" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Selector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1528451977781" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528451977781" expanded="true" signature="104:413" ph="{...}" />
+            <marker date="1528451977781" expanded="true" signature="148:410" ph="{...}" />
+            <marker date="1528451977781" expanded="true" signature="200:208" ph="{...}" />
+            <marker date="1528451977781" expanded="true" signature="265:273" ph="{...}" />
+            <marker date="1528451977781" expanded="true" signature="295:407" ph="{...}" />
+            <marker date="1528451977781" expanded="true" signature="355:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Example/Scripts/Controller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
+          <folding>
+            <marker date="1528454729237" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528454729237" expanded="true" signature="105:714" ph="{...}" />
+            <marker date="1528454729237" expanded="true" signature="148:710" ph="{...}" />
+            <marker date="1528454729237" expanded="true" signature="296:324" ph="{...}" />
+            <marker date="1528454729237" expanded="true" signature="386:707" ph="{...}" />
+            <marker date="1528454729237" expanded="true" signature="402:703" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <marker date="1528462021286" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528462021286" expanded="true" signature="96:2004" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="139:2002" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="248:287" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="503:577" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="639:647" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="683:1999" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="760:1987" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="910:1852" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="1418:1452" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="1606:1702" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="1712:1846" ph="{...}" />
+            <marker date="1528462021286" expanded="true" signature="1861:1982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
