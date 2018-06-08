@@ -20,6 +20,7 @@ namespace Magnet
 		public float MagneticPower = 1f;
 		public float MinDistance = 0.001f;
 		private Rigidbody attachedRigidbody;
+		
 		// Use this for initialization
 		void Start ()
 		{
