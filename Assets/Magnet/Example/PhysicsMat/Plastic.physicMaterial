@@ -7,7 +7,7 @@ PhysicMaterial:
   m_PrefabInternal: {fileID: 0}
   m_Name: Plastic
   dynamicFriction: 0.1
-  staticFriction: 0.1
+  staticFriction: 0.4
   bounciness: 0.08
   frictionCombine: 0
   bounceCombine: 2

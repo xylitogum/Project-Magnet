@@ -7,18 +7,32 @@ namespace Magnet
 	
 	public class Magnetic : MonoBehaviour
 	{
-		public const bool DEBUG_MODE = false;
-		private const float MAX_FORCE = 10f;
+		public const bool DEBUG_MODE = false; // Warning: Excessive Debug Log will be produced if this is on
+		
+		
 		public enum PolarityType
 		{
 			Neutral,
 			North,
 			South
 		}
-
 		public PolarityType Polarity = PolarityType.Neutral;
+		
+		public enum AttenuationType
+		{
+			None,
+			Linear,
+			Square,
+			Cubic,
+			Logarithmic
+		}
+		
+		public AttenuationType Attenuation = AttenuationType.Cubic;
+		
 		public float MagneticPower = 1f;
 		public float MinDistance = 0.001f;
+		public float MaxForce = 15f;
+		
 		private Rigidbody attachedRigidbody;
 		
 		// Use this for initialization
@@ -44,7 +58,7 @@ namespace Magnet
 				{
 					float power = MagneticPower * targetMag.MagneticPower;
 					float distance = Mathf.Max(MinDistance, Vector3.Distance(this.transform.position, targetMag.transform.position));
-					float forceAmount = Mathf.Min(power / Mathf.Pow(distance, 2f), MAX_FORCE);
+					float forceAmount = Mathf.Min(GetAttenuatedForce(power, distance), MaxForce);
 					Vector3 forceDir = Vector3.Normalize(this.transform.position - targetMag.transform.position);
 					Vector3 force = forceDir * forceAmount;
 							
@@ -56,6 +70,7 @@ namespace Magnet
 					
 					// Apply Force
 					targetRb.AddForceAtPosition(force, targetMag.transform.position);
+					if (DEBUG_MODE) Debug.Log("MagneticField applying a force of: (" + forceAmount + ")");
 					
 					// Reversed Force
 					if (attachedRigidbody)
@@ -64,16 +79,43 @@ namespace Magnet
 					}
 					else
 					{
-						if (DEBUG_MODE) Debug.LogWarning("MagneticField doesnot contain a RigidBody. Can't apply Reversed Force on it.");
+						//if (DEBUG_MODE) Debug.LogWarning("MagneticField doesnot contain a RigidBody. Can't apply Reversed Force on it.");
 					}
 				}
 				else
 				{
-					if (DEBUG_MODE) Debug.LogWarning("MagneticField found a collider without MagneticField or RigidBody.");
+					//if (DEBUG_MODE) Debug.LogWarning("MagneticField found a collider without MagneticField or RigidBody.");
 				}
 			}
 			
 			
+		}
+
+		float GetAttenuatedForce(float power, float distance)
+		{
+			float attenuatedForce = 0f;
+			switch (Attenuation)
+			{
+				case AttenuationType.None:
+					attenuatedForce = power;
+					break;
+				case AttenuationType.Linear:
+					attenuatedForce = power / distance;
+					break;
+				case AttenuationType.Square:
+					attenuatedForce = power / Mathf.Pow(distance, 2f);
+					break;
+				case AttenuationType.Cubic:
+					attenuatedForce = power / Mathf.Pow(distance, 3f);
+					break;
+				case AttenuationType.Logarithmic:
+					attenuatedForce = power * Mathf.Exp(-distance);
+					break;
+				default:
+					break;
+			}
+			
+			return attenuatedForce;
 		}
 	}
 }

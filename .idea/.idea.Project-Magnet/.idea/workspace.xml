@@ -10,26 +10,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Magnetic.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+            <state relative-caret-position="105">
+              <caret line="9" column="108" selection-start-line="9" selection-start-column="108" selection-end-line="9" selection-end-column="108" />
               <folding>
-                <marker date="1528470735130" expanded="false" signature="6:78" ph="..." />
-                <marker date="1528470735130" expanded="true" signature="96:2007" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="139:2005" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="248:287" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="506:580" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="642:650" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="686:2002" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="763:1990" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="913:1855" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="1421:1455" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="1609:1705" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="1715:1849" ph="{...}" />
-                <marker date="1528470735130" expanded="true" signature="1864:1985" ph="{...}" />
+                <marker date="1528644720326" expanded="false" signature="6:78" ph="..." />
+                <marker date="1528644720326" expanded="true" signature="96:2983" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="139:2981" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="278:317" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="405:469" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="734:808" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="870:878" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="914:2329" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="991:2317" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="1141:2180" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="1652:1686" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="1932:2028" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="2038:2174" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="2189:2312" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="2386:2978" ph="{...}" />
+                <marker date="1528644720326" expanded="true" signature="2445:2943" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -42,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,7 +63,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="240" />
     <option name="y" value="130" />
     <option name="width" value="1440" />
@@ -71,11 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-file-system" value="false" />
-        <option name="show-all-items" value="false" />
-      </pane>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -88,6 +86,11 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -125,11 +128,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528470330785</updated>
       <workItem from="1528470333731" duration="599000" />
+      <workItem from="1528643258777" duration="1749000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="599000" />
+    <option name="totallyTimeSpent" value="2348000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -141,31 +145,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,19 +186,47 @@
         <state relative-caret-position="435">
           <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
           <folding>
-            <marker date="1528470735130" expanded="false" signature="6:78" ph="..." />
-            <marker date="1528470735130" expanded="true" signature="96:2007" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="139:2005" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="248:287" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="506:580" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="642:650" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="686:2002" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="763:1990" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="913:1855" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="1421:1455" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="1609:1705" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="1715:1849" ph="{...}" />
-            <marker date="1528470735130" expanded="true" signature="1864:1985" ph="{...}" />
+            <marker date="1528644720326" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528644720326" expanded="true" signature="96:2983" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="139:2981" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="278:317" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="405:469" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="734:808" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="870:878" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="914:2329" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="991:2317" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="1141:2180" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="1652:1686" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="1932:2028" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2038:2174" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2189:2312" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2386:2978" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2445:2943" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Magnet/Scripts/Magnetic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="108" selection-start-line="9" selection-start-column="108" selection-end-line="9" selection-end-column="108" />
+          <folding>
+            <marker date="1528644720326" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528644720326" expanded="true" signature="96:2983" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="139:2981" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="278:317" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="405:469" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="734:808" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="870:878" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="914:2329" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="991:2317" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="1141:2180" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="1652:1686" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="1932:2028" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2038:2174" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2189:2312" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2386:2978" ph="{...}" />
+            <marker date="1528644720326" expanded="true" signature="2445:2943" ph="{...}" />
           </folding>
         </state>
       </provider>
