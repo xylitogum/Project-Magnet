@@ -75,7 +75,7 @@ namespace Magnet
 					// Reversed Force
 					if (attachedRigidbody)
 					{
-						attachedRigidbody.AddForceAtPosition(-force, targetMag.transform.position);
+						attachedRigidbody.AddForceAtPosition(-force, this.transform.position);
 					}
 					else
 					{
